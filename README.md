@@ -1,4 +1,4 @@
-# 🧟‍♂️ Zombie Cleansing Totem
+# 🧟‍♂️ Zombie Cleaning Totem | Dependency - HRS_Zombies | HRS_Basebuilding
 
 **Your ultimate defense against the undead horde!**
 
